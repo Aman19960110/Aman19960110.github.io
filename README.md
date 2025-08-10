@@ -1,36 +1,33 @@
-# Quantitative Researcher | Algorithmic Trader
+# Quantitative Researcher | Derivative Analyst
 
-**Technical Skills:** Python, Pandas, NumPy, SQL, Backtrader, Plotly, scikit-learn, Statsmodels, Financial Modeling, Options Analytics, API Integration (Kotak Neo, NSE), Time Series Analysis, Statistical Arbitrage, Machine Learning
+**Technical Skills:** Python, Pandas, NumPy, SQL, Backtrader, Plotly, scikit-learn, Statsmodels,Tensor-flow, Financial Modeling, Options Analytics, API Integration , Time Series Analysis, Statistical Arbitrage, Machine Learning
 
 ---
 
 ## Education
-- **M.Sc., Financial Engineering** | *(In Progress / Planned)*  
-- **B.Com (Finance)** | [Your University], [Year of Graduation]  
+- **MSc in Financial Engineering (in progress (1st year)) — WorldQuant University*  
+- **B.Tech in Civil Engineering — Dr. APJ Abul Kalam Technical University (pass out- 2018) 
 
 ---
 
 ## Work Experience
 
-**Derivative Trader** — [Your Company] *(March 2023 – Present)*  
-- Executing and managing options & futures strategies with a focus on index derivatives.  
-- Designed and deployed systematic trading strategies using Python and broker APIs.  
-- Developed risk monitoring dashboards for intraday exposure and PnL tracking.  
-- Analyzed options chain data to identify skew, IV surface patterns, and arbitrage opportunities.
+**•	Derivative Analyst** — Adroit Financials — Gurgaon, India *(May-2024 - Present)*  
+-- Executed and managed High Frequency derivative Strategy with focus on index & stock options, achieving consistent profitability in high-volatility environments.
+- Developed Python-based tools for real-time options chain analysis, open interest tracking, and automating various reparative work using python.
+- Helping Senior traders to annalise and visualize financial data, time series analysis, correlations, covariance and Principal Component analysis 
+Experienced in applying linear algebra techniques using Python to summarize and filter both structured and unstructured financial data, to prepare data sets for models in econometrics, machine learning, and deep learning.
 
-**Quant Research Projects** — Independent / Freelance *(Ongoing)*  
-- Research and backtest intraday and positional strategies using NSE derivatives data.  
-- Apply statistical methods (cointegration, z-score, NMF) to identify mean-reverting spreads.  
-- Automate data collection pipelines from NSE and broker APIs for backtesting and live deployment.  
+
+**Quant Research Projects** —  
+- Predicting Emerging market direction: Developed a Neural Network model using CRIDP-DM method to forecast the short-term price direction of ETF of emerging markets.
+- NSE F&O Dashboard: Created a Streamlit-based analytics tool visualizing bhavcopy data, open interest shifts, and implied volatility surfaces.
+- Portfolio Risk Modeling: Applied factor models & Monte Carlo simulations to assess tail risk in multi-asset portfolios.
 
 ---
 
 ## Selected Projects
 
-### **Statistical Arbitrage Strategy for NSE F&O**
-- Implemented pair trading model using cointegration and half-life calculations.  
-- Automated order execution via Kotak Neo API with risk controls and position sizing rules.  
-- Backtested over 5 years of data achieving annualized Sharpe > 2.0.
 
 ### **Options Analytics Dashboard**
 - Built with `Plotly` + `Streamlit` to visualize IV, Greeks, and Open Interest across strikes and expiries.  
@@ -42,21 +39,9 @@
 
 ---
 
-## Talks, Lectures & Writing
-- **Webinar:** "Finding Alpha in Options Order Flow" — 2024  
-- **Blog:** [Your Quant Blog/Medium Link]  
-- **GitHub Projects:** [https://github.com/aman19960110](https://github.com/aman19960110)
-
----
-
-## Publications (if any)
-*(Add here when you publish quant finance research or conference papers)*
-
----
-
 ## Contact
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [Your LinkedIn URL]  
+📧 Email: amanyadav1004@gmail.com  
+🔗 LinkedIn: [www.linkedin.com/in/aman-yadav-10a549149]  
 🌐 Portfolio: [https://aman19960110.github.io](https://aman19960110.github.io)  
 
 ---
