@@ -41,7 +41,7 @@ Experienced in applying linear algebra techniques using Python to summarize and 
 
 ## Contact
 📧 Email: amanyadav1004@gmail.com  
-🔗 LinkedIn: [https://linkedin.com/in/aman-yadav-10a549149]
+🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/aman-yadav-10a549149)  
 🌐 Portfolio: [https://aman19960110.github.io](https://aman19960110.github.io)  
 📝 Resume: [![CV](https://img.shields.io/badge/CV-Download-blue)](assets/Quant_Researcher_Resume.pdf)
 
