@@ -31,7 +31,7 @@ Experienced in applying linear algebra techniques using Python to summarize and 
 
 ### **Options Analytics Dashboard**
 - Built with `Plotly` + `Streamlit` to visualize IV, Greeks, and Open Interest across strikes and expiries.  
-- Integrated live market feed for real-time analysis. (Dashboard-link(https://crtoken.streamlit.app/))
+- Integrated live market feed for real-time analysis. [Dashboard-link](https://crtoken.streamlit.app/)
 
 ### **Automated Options Hedging Bot**
 - Strategy executes ITM/ATM hedges dynamically based on delta exposure.  
