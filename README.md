@@ -28,7 +28,7 @@ Experienced in applying linear algebra techniques using Python to summarize and 
 
 ## Selected Projects
 
-### ![Yeild Curve Modelling](https://github.com/Aman19960110/yeild_curve_modeling)
+### [Yeild Curve Modelling](https://github.com/Aman19960110/yeild_curve_modeling)
 This project analyzes Indian Government Securities (G-Secs) yields across multiple maturities and compares two yield curve fitting approaches:
 1. **Nelson–Siegel Model**
 2. **Cubic Spline Interpolation**
@@ -38,10 +38,9 @@ The aim is to:
 - Compare the fits in terms of accuracy and interpretability.
 - Discuss the ethics of smoothing yield curve data.
 
-### **Options Analytics Dashboard**
+### **[Options Analytics Dashboard](https://crtoken.streamlit.app/)**
 - Built with `Plotly` + `Streamlit` to visualize IV, Greeks, and Open Interest across strikes and expiries.  
-- Integrated live market feed for real-time analysis. [Dashboard-link](https://crtoken.streamlit.app/)
-
+- Integrated live market feed for real-time analysis. 
 ### **Automated Options Hedging Bot**
 - Strategy executes ITM/ATM hedges dynamically based on delta exposure.  
 - Sends orders to futures and options legs based on pre-defined volatility triggers.
