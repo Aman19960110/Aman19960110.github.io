@@ -28,6 +28,15 @@ Experienced in applying linear algebra techniques using Python to summarize and 
 
 ## Selected Projects
 
+### ![Yeild Curve Modelling](https://github.com/Aman19960110/yeild_curve_modeling)
+This project analyzes Indian Government Securities (G-Secs) yields across multiple maturities and compares two yield curve fitting approaches:
+1. **Nelson–Siegel Model**
+2. **Cubic Spline Interpolation**
+
+The aim is to:
+- Model the yield curve using short-to-long maturities (6 months to 30 years).
+- Compare the fits in terms of accuracy and interpretability.
+- Discuss the ethics of smoothing yield curve data.
 
 ### **Options Analytics Dashboard**
 - Built with `Plotly` + `Streamlit` to visualize IV, Greeks, and Open Interest across strikes and expiries.  
