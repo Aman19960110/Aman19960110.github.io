@@ -42,8 +42,13 @@ The aim is to:
 - Discuss the ethics of smoothing yield curve data.
 
 ### **[Options Analytics Dashboard](https://crtoken.streamlit.app/)**
-- Built with `Plotly` + `Streamlit` to visualize IV, Greeks, and Open Interest across strikes and expiries.  
-- Integrated live market feed for real-time analysis. 
+token_live – Trading Analysis & POS Visualization
+A full-stack dashboard built with Python & Streamlit for analysing NSE derivatives and POS data.
+
+Key Features:
+• Dynamic generation of CR tokens using custom parameters (expiry month, open interest thresholds, ATM ranges)
+• Excel-based POS upload: compute exposures, show summaries, visualize mark-to-market metrics
+• Interactive charts and dashboards for real-time insights into trading positions
 
 
 ---
