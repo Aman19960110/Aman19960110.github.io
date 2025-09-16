@@ -29,7 +29,11 @@ Experienced in applying linear algebra techniques using Python to summarize and 
 ## Selected Projects
 
 ### [Bankruptcy Prediction in Polish Companies (2009)](https://github.com/Aman19960110/bankruptcy_2009-prediction-poland)
-This project applies machine learning techniques to predict bankruptcy among Polish companies using the UCI Bankruptcy Dataset . The project demonstrates EDA (Exploratory Data Analysis), handling imbalanced datasets, and applying tree-based models (Decision Trees, Random Forests, Gradient Boosting).
+Bankruptcy Prediction in Polish Companies (2009)
+A machine learning project built to forecast corporate bankruptcies in Poland using financial statement data. The model combines exploratory data analysis, feature engineering, and tree-based classifiers to help stakeholders identify risk earlier and make data-driven decisions.
+
+Problem Statement
+Companies face financial distress for many reasons, and detecting bankruptcy early can help investors, regulators, and company management take preventive action. The challenge lies in working with highly imbalanced data, accounting for skewed distributions, and handling multicollinearity among financial ratios. This project aims to predict whether a company will go bankrupt using historical financial ratios.
 
 ### [Yeild Curve Modelling](https://github.com/Aman19960110/yeild_curve_modeling)
 This project analyzes Indian Government Securities (G-Secs) yields across multiple maturities and compares two yield curve fitting approaches:
