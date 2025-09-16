@@ -28,6 +28,9 @@ Experienced in applying linear algebra techniques using Python to summarize and 
 
 ## Selected Projects
 
+### [Bankruptcy Prediction in Polish Companies (2009)](https://github.com/Aman19960110/bankruptcy_2009-prediction-poland)
+This project applies machine learning techniques to predict bankruptcy among Polish companies using the UCI Bankruptcy Dataset . The project demonstrates EDA (Exploratory Data Analysis), handling imbalanced datasets, and applying tree-based models (Decision Trees, Random Forests, Gradient Boosting).
+
 ### [Yeild Curve Modelling](https://github.com/Aman19960110/yeild_curve_modeling)
 This project analyzes Indian Government Securities (G-Secs) yields across multiple maturities and compares two yield curve fitting approaches:
 1. **Nelson–Siegel Model**
@@ -41,9 +44,7 @@ The aim is to:
 ### **[Options Analytics Dashboard](https://crtoken.streamlit.app/)**
 - Built with `Plotly` + `Streamlit` to visualize IV, Greeks, and Open Interest across strikes and expiries.  
 - Integrated live market feed for real-time analysis. 
-### **Automated Options Hedging Bot**
-- Strategy executes ITM/ATM hedges dynamically based on delta exposure.  
-- Sends orders to futures and options legs based on pre-defined volatility triggers.
+
 
 ---
 
