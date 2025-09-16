@@ -1,4 +1,4 @@
-# Quantitative Researcher | Derivative Analyst
+
 
 **Technical Skills:** Python, Pandas, NumPy, SQL, Backtrader, Plotly, scikit-learn, Statsmodels,Tensor-flow, Financial Modeling, Options Analytics, API Integration , Time Series Analysis, Statistical Arbitrage, Machine Learning
 
