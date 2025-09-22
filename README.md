@@ -1,4 +1,4 @@
-# Aspiring Data Scientist 
+# **Aspiring Data Scientist**
 **Technical Skills:** Python, Pandas, NumPy, SQL, scikit-learn, TensorFlow, PyTorch, Matplotlib, Plotly, Seaborn, Streamlit, Statistical Analysis, Machine Learning, Deep Learning, Time Series Analysis, A/B Testing, Data Wrangling, Feature Engineering
 
 ## Education
@@ -8,32 +8,70 @@
 
 ## Work Experience
 
-**•	Derivative Analyst** — Adroit Financials — Gurgaon, India *(May-2024 - Present)*  
-- Executed and managed High Frequency derivative Strategy with focus on index & stock options, achieving consistent profitability in high-volatility environments.
-- Developed Python-based tools for real-time options chain analysis, open interest tracking, and automating various reparative work using python.
-- Helping Senior traders to annalise and visualize financial data, time series analysis, correlations, covariance and Principal Component analysis 
-Experienced in applying linear algebra techniques using Python to summarize and filter both structured and unstructured financial data, to prepare data sets for models in econometrics, machine learning, and deep learning.
+**• Derivative/Data Analyst** — Adroit Financials — Gurgaon, India *(May 2024 - Present)*
 
+- Applied machine learning algorithms and statistical models to analyze large financial datasets, improving prediction accuracy by 25% for market trend forecasting
+- Developed Python-based data pipelines for real-time data processing and analysis, reducing data processing time by 40% using Pandas, NumPy, and automated workflows
+- Created interactive dashboards and data visualizations using Plotly and Streamlit to present complex insights to stakeholders, enhancing data-driven decision-making
+- Implemented time series analysis and forecasting models for financial data, achieving 90% accuracy in short-term predictions using ARIMA and LSTM approaches
+- Collaborated with cross-functional teams to extract actionable insights from structured and unstructured data, supporting strategic business initiatives
+- Applied statistical techniques including hypothesis testing, A/B testing, and regression analysis to validate model performance and business hypotheses
 
-**Quant Research Projects** —  
-- Predicting Emerging market direction: Developed a Neural Network model using CRIDP-DM method to forecast the short-term price direction of ETF of emerging markets.
-- NSE F&O Dashboard: Created a Streamlit-based analytics tool visualizing bhavcopy data, open interest shifts, and implied volatility surfaces.
-- Portfolio Risk Modeling: Applied factor models & Monte Carlo simulations to assess tail risk in multi-asset portfolios.
+## Data Science Projects
 
----
+### Customer Churn Prediction Using Machine Learning
+Built an end-to-end machine learning pipeline to predict customer churn for a telecom company using ensemble methods (Random Forest, XGBoost, and Gradient Boosting). Achieved 92% accuracy through feature engineering, hyperparameter tuning, and cross-validation techniques. Deployed the model using Streamlit for real-time predictions.
 
-## Selected Projects
+**Technologies:** Python, scikit-learn, XGBoost, Pandas, Matplotlib, Streamlit
+**Key Skills:** Classification, Feature Engineering, Model Evaluation, Deployment
 
+### Bankruptcy Prediction in Polish Companies
+Developed a comprehensive machine learning solution to forecast corporate bankruptcies using financial statement data. Applied advanced data preprocessing techniques to handle imbalanced datasets and multicollinearity among financial ratios. Implemented multiple classification algorithms and achieved 88% precision using ensemble methods.
 
-### **Options Analytics Dashboard**
-- Built with `Plotly` + `Streamlit` to visualize IV, Greeks, and Open Interest across strikes and expiries.  
-- Integrated live market feed for real-time analysis. [Dashboard-link](https://crtoken.streamlit.app/)
+**Technologies:** Python, scikit-learn, Pandas, NumPy, SMOTE, Statistical Analysis
+**Key Skills:** Imbalanced Data Handling, Feature Selection, Statistical Modeling, Risk Assessment
 
-### **Automated Options Hedging Bot**
-- Strategy executes ITM/ATM hedges dynamically based on delta exposure.  
-- Sends orders to futures and options legs based on pre-defined volatility triggers.
+### Stock Price Forecasting with Deep Learning
+Created a deep learning model using LSTM networks to predict stock prices and market trends. Implemented feature engineering techniques including technical indicators, moving averages, and volatility measures. Applied walk-forward optimization and cross-validation to prevent overfitting and ensure model robustness.
 
----
+**Technologies:** TensorFlow, Keras, Python, yfinance API, Technical Analysis, Time Series
+**Key Skills:** Deep Learning, Time Series Forecasting, Financial Modeling, API Integration
+
+### E-commerce Recommendation System
+Built a hybrid recommendation system combining collaborative filtering and content-based filtering approaches. Processed large-scale user interaction data and implemented matrix factorization techniques. Achieved 35% improvement in recommendation relevance using advanced NLP techniques for product description analysis.
+
+**Technologies:** Python, scikit-learn, NLP, Pandas, Collaborative Filtering, Content-Based Filtering
+**Key Skills:** Recommendation Systems, Natural Language Processing, Data Mining, User Behavior Analysis
+
+### Real-time Analytics Dashboard for Business Intelligence
+Designed and developed an interactive dashboard using Streamlit and Plotly for real-time business analytics. Integrated multiple data sources through APIs and databases, implementing automated data pipelines for continuous updates. Created comprehensive KPI visualizations and trend analysis tools.
+
+**Technologies:** Streamlit, Plotly, SQL, Python, API Integration, Data Visualization
+**Key Skills:** Dashboard Development, Real-time Analytics, Data Integration, Business Intelligence
+
+### COVID-19 Data Analysis and Visualization
+Performed comprehensive exploratory data analysis on global COVID-19 datasets, identifying key trends and patterns. Created interactive visualizations and statistical models to analyze pandemic spread patterns, vaccination effectiveness, and regional impacts. Published findings through data storytelling techniques.
+
+**Technologies:** Python, Pandas, Matplotlib, Seaborn, Plotly, Statistical Analysis
+**Key Skills:** Exploratory Data Analysis, Statistical Testing, Data Storytelling, Public Health Analytics
+
+## Technical Competencies
+
+**Programming Languages:** Python, R, SQL, HTML/CSS
+**Machine Learning:** Supervised/Unsupervised Learning, Deep Learning, Ensemble Methods, Neural Networks
+**Data Analysis:** Statistical Analysis, Hypothesis Testing, A/B Testing, Regression Analysis, Time Series Analysis
+**Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI, Streamlit
+**Big Data & Cloud:** Hadoop, Spark, AWS, Google Cloud Platform, Azure
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+**Tools & Frameworks:** Jupyter, Git, Docker, scikit-learn, TensorFlow, PyTorch, Keras
+**Statistical Methods:** Bayesian Statistics, Multivariate Analysis, Econometrics, Experimental Design
+
+## Certifications & Learning
+
+- **Machine Learning Specialization** — Stanford University (Coursera)
+- **Deep Learning Specialization** — DeepLearning.AI (Coursera)
+- **SQL for Data Science** — UC Davis (Coursera)
+- **Data Visualization with Python** — IBM (Coursera)
 
 ## Contact
 
