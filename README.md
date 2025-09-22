@@ -1,4 +1,4 @@
-# **Aspiring Data Scientist **
+# Aspiring Data Scientist 
 **Technical Skills:** Python, Pandas, NumPy, SQL, scikit-learn, TensorFlow, PyTorch, Matplotlib, Plotly, Seaborn, Streamlit, Statistical Analysis, Machine Learning, Deep Learning, Time Series Analysis, A/B Testing, Data Wrangling, Feature Engineering
 
 ## Education
