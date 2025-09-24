@@ -26,7 +26,7 @@ Developed a comprehensive machine learning solution to forecast corporate bankru
 **Key Skills:** Imbalanced Data Handling, Feature Selection, Statistical Modeling, Risk Assessment
 🔗 [Project Repository](https://github.com/Aman19960110/bankruptcy_2009-prediction-poland)
 
-### [Customer Segmentation using Machine Learning]((https://github.com/Aman19960110/Custormer-Segmentation)
+### [Customer Segmentation using Machine Learning](https://github.com/Aman19960110/Custormer-Segmentation)
 
 Developed a customer segmentation model to analyze purchasing behavior and identify distinct customer groups. Applied clustering algorithms to uncover patterns in demographics and transaction data, enabling better targeting strategies for businesses. Created interactive visualizations and dashboards to present insights on customer profiles and segment distributions.
 
