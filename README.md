@@ -72,6 +72,7 @@ Designed and developed an interactive dashboard using Streamlit and Plotly for r
 - 📝 Resume: [Download Resume](assets/Quant_Researcher_Resume.pdf)
 - 🐙 GitHub: [https://github.com/Aman19960110](https://github.com/Aman19960110)
 - 📲 Contact: 7011340600
+
 ## About
 
 Passionate data scientist with expertise in machine learning, statistical analysis, and data-driven decision making. Experienced in developing end-to-end ML solutions, building predictive models, and creating actionable insights from complex datasets. Strong background in Python programming, statistical modeling, and data visualization with proven track record of delivering business value through data science initiatives.
