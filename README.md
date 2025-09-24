@@ -24,7 +24,7 @@ Developed a comprehensive machine learning solution to forecast corporate bankru
 
 **Technologies:** Python, scikit-learn, Pandas, NumPy, SMOTE, Statistical Analysis
 **Key Skills:** Imbalanced Data Handling, Feature Selection, Statistical Modeling, Risk Assessment
-🔗 [Project Repository](https://github.com/Aman19960110/bankruptcy_2009-prediction-poland)
+- 🔗 [Project Repository](https://github.com/Aman19960110/bankruptcy_2009-prediction-poland)
 
 ### [Customer Segmentation using Machine Learning](https://github.com/Aman19960110/Custormer-Segmentation)
 
@@ -33,7 +33,7 @@ Developed a customer segmentation model to analyze purchasing behavior and ident
 Technologies: Python, Pandas, Scikit-learn, Plotly, Dash, Matplotlib
 Key Skills: Data Preprocessing, Clustering (K-Means, Hierarchical), Exploratory Data Analysis, Customer Analytics, Dashboard Development
 
-🔗 [Project Repository](https://github.com/Aman19960110/Custormer-Segmentation)
+- 🔗 [Project Repository](https://github.com/Aman19960110/Custormer-Segmentation)
 
 ### Stock Price Forecasting with Deep Learning
 Created a deep learning model using LSTM networks to predict stock prices and market trends. Implemented feature engineering techniques including technical indicators, moving averages, and volatility measures. Applied walk-forward optimization and cross-validation to prevent overfitting and ensure model robustness.
@@ -46,18 +46,18 @@ Designed and developed an interactive dashboard using Streamlit and Plotly for r
 
 **Technologies:** Streamlit, Plotly, SQL, Python, API Integration, Data Visualization
 **Key Skills:** Dashboard Development, Real-time Analytics, Data Integration, Business Intelligence
-[link to Dashboard](https://crtoken.streamlit.app/)
+- [link to Dashboard](https://crtoken.streamlit.app/)
 
 
 ## Technical Competencies
 
-**Programming Languages:** Python, SQL
-**Machine Learning:** Supervised/Unsupervised Learning, Deep Learning, Ensemble Methods, Neural Networks
-**Data Analysis:** Statistical Analysis, Hypothesis Testing, A/B Testing, Regression Analysis, Time Series Analysis
-**Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Streamlit
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
-**Tools & Frameworks:** Jupyter, Git, scikit-learn, TensorFlow, PyTorch, 
-**Statistical Methods:** Bayesian Statistics, Multivariate Analysis, Econometrics, Experimental Design
+- **Programming Languages:** Python, SQL
+- **Machine Learning:** Supervised/Unsupervised Learning, Deep Learning, Ensemble Methods, Neural Networks
+- **Data Analysis:** Statistical Analysis, Hypothesis Testing, A/B Testing, Regression Analysis, Time Series Analysis
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Streamlit
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+- **Tools & Frameworks:** Jupyter, Git, scikit-learn, TensorFlow, PyTorch, 
+- **Statistical Methods:** Bayesian Statistics, Multivariate Analysis, Econometrics, Experimental Design
 
 ## Certifications & Learning
 
@@ -66,12 +66,12 @@ Designed and developed an interactive dashboard using Streamlit and Plotly for r
 
 ## Contact
 
-📧 Email: amanyadav1004@gmail.com
-🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aman-yadav-10a549149/)
-🌐 Portfolio: [https://aman19960110.github.io](https://aman19960110.github.io/)
-📝 Resume: [Download Resume](assets/Quant_Researcher_Resume.pdf)
-🐙 GitHub: [https://github.com/Aman19960110](https://github.com/Aman19960110)
-📲 Contact: 7011340600
+- 📧 Email: amanyadav1004@gmail.com
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aman-yadav-10a549149/)
+- 🌐 Portfolio: [https://aman19960110.github.io](https://aman19960110.github.io/)
+- 📝 Resume: [Download Resume](assets/Quant_Researcher_Resume.pdf)
+- 🐙 GitHub: [https://github.com/Aman19960110](https://github.com/Aman19960110)
+- 📲 Contact: 7011340600
 ## About
 
 Passionate data scientist with expertise in machine learning, statistical analysis, and data-driven decision making. Experienced in developing end-to-end ML solutions, building predictive models, and creating actionable insights from complex datasets. Strong background in Python programming, statistical modeling, and data visualization with proven track record of delivering business value through data science initiatives.
@@ -87,6 +87,6 @@ Passionate data scientist with expertise in machine learning, statistical analys
 
 ### Activity
 
-**Recent Updates:** Portfolio regularly updated with new projects and technical skills
-**Community Engagement:** Active contributor to data science discussions and open-source projects
-**Professional Development:** Continuously expanding expertise in emerging data science technologies and methodologies
+- **Recent Updates:** Portfolio regularly updated with new projects and technical skills 
+- **Community Engagement:** Active contributor to data science discussions and open-source projects
+- **Professional Development:** Continuously expanding expertise in emerging data science technologies and methodologies
