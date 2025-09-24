@@ -26,7 +26,7 @@ Developed a comprehensive machine learning solution to forecast corporate bankru
 **Key Skills:** Imbalanced Data Handling, Feature Selection, Statistical Modeling, Risk Assessment
 🔗 [Project Repository](https://github.com/Aman19960110/bankruptcy_2009-prediction-poland)
 
-### Customer Segmentation using Machine Learning
+### [Customer Segmentation using Machine Learning]((https://github.com/Aman19960110/Custormer-Segmentation)
 
 Developed a customer segmentation model to analyze purchasing behavior and identify distinct customer groups. Applied clustering algorithms to uncover patterns in demographics and transaction data, enabling better targeting strategies for businesses. Created interactive visualizations and dashboards to present insights on customer profiles and segment distributions.
 
@@ -46,18 +46,17 @@ Designed and developed an interactive dashboard using Streamlit and Plotly for r
 
 **Technologies:** Streamlit, Plotly, SQL, Python, API Integration, Data Visualization
 **Key Skills:** Dashboard Development, Real-time Analytics, Data Integration, Business Intelligence
-
+[link to Dashboard](https://crtoken.streamlit.app/)
 
 
 ## Technical Competencies
 
-**Programming Languages:** Python, R, SQL, HTML/CSS
+**Programming Languages:** Python, SQL
 **Machine Learning:** Supervised/Unsupervised Learning, Deep Learning, Ensemble Methods, Neural Networks
 **Data Analysis:** Statistical Analysis, Hypothesis Testing, A/B Testing, Regression Analysis, Time Series Analysis
-**Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI, Streamlit
-**Big Data & Cloud:** Hadoop, Spark, AWS, Google Cloud Platform, Azure
+**Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Streamlit
 **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
-**Tools & Frameworks:** Jupyter, Git, Docker, scikit-learn, TensorFlow, PyTorch, Keras
+**Tools & Frameworks:** Jupyter, Git, scikit-learn, TensorFlow, PyTorch, 
 **Statistical Methods:** Bayesian Statistics, Multivariate Analysis, Econometrics, Experimental Design
 
 ## Certifications & Learning
