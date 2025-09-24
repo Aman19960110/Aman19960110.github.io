@@ -69,7 +69,7 @@ Designed and developed an interactive dashboard using Streamlit and Plotly for r
 - 📧 Email: amanyadav1004@gmail.com
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aman-yadav-10a549149/)
 - 🌐 Portfolio: [https://aman19960110.github.io](https://aman19960110.github.io/)
-- 📝 Resume: [Download Resume](assets/Quant_Researcher_Resume.pdf)
+- 📝 Resume: [Download Resume](assets/Aman-Yadav-Resume_DS.pdf)
 - 🐙 GitHub: [https://github.com/Aman19960110](https://github.com/Aman19960110)
 - 📲 Contact: 7011340600
 
